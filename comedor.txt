@@ -1,1 +1,5 @@
 Este es el comedor
+
+
+
+Se le agrego un centro de mesa
