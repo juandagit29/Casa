@@ -1,3 +1,9 @@
 Esta es la sala
 
+<<<<<<< HEAD
 Aquí hay un sofa y una pantalla
+=======
+
+
+Se añadieron mas sofas
+>>>>>>> remodelacion

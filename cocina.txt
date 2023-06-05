@@ -1,3 +1,9 @@
 Esta es la cocina
 
+<<<<<<< HEAD
 Aquí hay una estufa y un horno
+=======
+
+
+Se le agregaron mas cajones
+>>>>>>> remodelacion

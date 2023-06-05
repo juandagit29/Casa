@@ -1,3 +1,9 @@
 Este es el comedor
 
+<<<<<<< HEAD
 Aquí hay una mesa redonda de 1 metro de radio
+=======
+
+
+Se le agrego un centro de mesa
+>>>>>>> remodelacion
